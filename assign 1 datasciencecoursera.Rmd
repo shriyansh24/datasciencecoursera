@@ -2,7 +2,7 @@
 title: "datasciencecoursera"
 author: "Shriyansh"
 date: "10/06/2020"
-output: html_document
+output: pdf
 ---
 
 ```{r setup, include=FALSE}
